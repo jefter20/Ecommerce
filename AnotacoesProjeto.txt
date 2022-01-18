@@ -1,0 +1,5 @@
+# Pesquisar sobre dataAnnotations
+# Pesquisar sobre Notifies
+# Pesquisar sobre Generic
+# Pesquisar sobre Interfaces com Task
+# Regras de negócio no Serviço
