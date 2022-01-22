@@ -3,3 +3,14 @@
 # Pesquisar sobre Generic
 # Pesquisar sobre Interfaces com Task
 # Regras de negócio no Serviço
+# DbContext
+# Microsoft Identity
+# Migrations
+# OptionsBuilder
+# DbSet
+# GetStringConectionConfig()
+# OnConfiguring
+# protected override
+# EntityFrameworkCore.Design
+# Exclusão da classe Sturtup
+# Classe Program .NET 6
