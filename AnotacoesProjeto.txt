@@ -14,3 +14,7 @@
 # EntityFrameworkCore.Design
 # Exclusão da classe Sturtup
 # Classe Program .NET 6
+# Verificar como funciona o [Column (order)]
+# Verificar como funcionam propriedades não anuláveis (string?) 
+**************************************************************************************************************************
+Verificar se Classe Notifier funciona, caso haja erro
